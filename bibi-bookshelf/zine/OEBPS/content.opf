@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<meta name="generator" content="Adobe InDesign 15.1.1" />
+		<meta name="cover" content="x1.png" />
+		<meta property="ibooks:specified-fonts">true</meta>
+		<dc:title>qz-frame-v4</dc:title>
+		<dc:date>2020-08-05T18:43:50Z</dc:date>
+		<dc:language>en-US</dc:language>
+		<meta property="dcterms:modified">2020-08-05T18:43:52Z</meta>
+		<dc:identifier id="bookid">urn:uuid:29d919dd-24f5-4384-be78-b447c9dc299b</dc:identifier>
+		<!--fixed-layout options-->
+		<meta property="rendition:layout">pre-paginated</meta>
+		<meta property="rendition:orientation">landscape</meta>
+		<meta property="rendition:spread">both</meta>
+	</metadata>
+	<manifest>
+		<item id="qz-frame-v4-1" href="qz-frame-v4-1.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-2" href="qz-frame-v4-2.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-3" href="qz-frame-v4-3.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-4" href="qz-frame-v4-4.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-5" href="qz-frame-v4-5.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-6" href="qz-frame-v4-6.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-7" href="qz-frame-v4-7.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-8" href="qz-frame-v4-8.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-9" href="qz-frame-v4-9.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-10" href="qz-frame-v4-10.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-11" href="qz-frame-v4-11.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-12" href="qz-frame-v4-12.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-13" href="qz-frame-v4-13.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-14" href="qz-frame-v4-14.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-15" href="qz-frame-v4-15.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-16" href="qz-frame-v4-16.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-17" href="qz-frame-v4-17.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-18" href="qz-frame-v4-18.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-19" href="qz-frame-v4-19.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-20" href="qz-frame-v4-20.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-21" href="qz-frame-v4-21.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-22" href="qz-frame-v4-22.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-23" href="qz-frame-v4-23.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-24" href="qz-frame-v4-24.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-25" href="qz-frame-v4-25.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-26" href="qz-frame-v4-26.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-27" href="qz-frame-v4-27.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-28" href="qz-frame-v4-28.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-29" href="qz-frame-v4-29.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-30" href="qz-frame-v4-30.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-31" href="qz-frame-v4-31.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-32" href="qz-frame-v4-32.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-33" href="qz-frame-v4-33.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-34" href="qz-frame-v4-34.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-35" href="qz-frame-v4-35.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-36" href="qz-frame-v4-36.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-37" href="qz-frame-v4-37.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-38" href="qz-frame-v4-38.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-39" href="qz-frame-v4-39.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-40" href="qz-frame-v4-40.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-41" href="qz-frame-v4-41.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-42" href="qz-frame-v4-42.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-43" href="qz-frame-v4-43.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-44" href="qz-frame-v4-44.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-45" href="qz-frame-v4-45.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-46" href="qz-frame-v4-46.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-47" href="qz-frame-v4-47.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-48" href="qz-frame-v4-48.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-49" href="qz-frame-v4-49.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-50" href="qz-frame-v4-50.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-51" href="qz-frame-v4-51.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-52" href="qz-frame-v4-52.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-53" href="qz-frame-v4-53.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-54" href="qz-frame-v4-54.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-55" href="qz-frame-v4-55.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-56" href="qz-frame-v4-56.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-57" href="qz-frame-v4-57.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-58" href="qz-frame-v4-58.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-59" href="qz-frame-v4-59.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-60" href="qz-frame-v4-60.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-61" href="qz-frame-v4-61.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-62" href="qz-frame-v4-62.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-63" href="qz-frame-v4-63.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-64" href="qz-frame-v4-64.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-65" href="qz-frame-v4-65.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-66" href="qz-frame-v4-66.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-67" href="qz-frame-v4-67.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-68" href="qz-frame-v4-68.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-69" href="qz-frame-v4-69.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-70" href="qz-frame-v4-70.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-71" href="qz-frame-v4-71.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-72" href="qz-frame-v4-72.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-73" href="qz-frame-v4-73.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-74" href="qz-frame-v4-74.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-75" href="qz-frame-v4-75.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-76" href="qz-frame-v4-76.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-77" href="qz-frame-v4-77.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-78" href="qz-frame-v4-78.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-79" href="qz-frame-v4-79.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-80" href="qz-frame-v4-80.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-81" href="qz-frame-v4-81.xhtml" media-type="application/xhtml+xml" />
+		<item id="qz-frame-v4-82" href="qz-frame-v4-82.xhtml" media-type="application/xhtml+xml" />
+		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav" />
+		<item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css" />
+		<item id="AbrahamLincoln.ttf" href="font/AbrahamLincoln.ttf" media-type="application/x-font-ttf" />
+		<item id="Calibri.ttf" href="font/Calibri.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="EBGaramond-Bold.ttf" href="font/EBGaramond-Bold.ttf" media-type="application/x-font-ttf" />
+		<item id="EBGaramond-Italic.ttf" href="font/EBGaramond-Italic.ttf" media-type="application/x-font-ttf" />
+		<item id="EBGaramond-Medium.ttf" href="font/EBGaramond-Medium.ttf" media-type="application/x-font-ttf" />
+		<item id="EBGaramond-Regular.ttf" href="font/EBGaramond-Regular.ttf" media-type="application/x-font-ttf" />
+		<item id="EBGaramond-SemiBold.ttf" href="font/EBGaramond-SemiBold.ttf" media-type="application/x-font-ttf" />
+		<item id="Leksa-ExtraBold.ttf" href="font/Leksa-ExtraBold.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="Leksa-ExtraBoldItalic.ttf" href="font/Leksa-ExtraBoldItalic.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="Leksa-Italic.ttf" href="font/Leksa-Italic.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="Leksa-Light.ttf" href="font/Leksa-Light.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="MinionConceptItalic-BoldItalic.otf" href="font/MinionConceptItalic-BoldItalic.otf" media-type="application/vnd.ms-opentype" />
+		<item id="MinionConceptItalic-Italic.otf" href="font/MinionConceptItalic-Italic.otf" media-type="application/vnd.ms-opentype" />
+		<item id="MinionConceptRoman-Bold.otf" href="font/MinionConceptRoman-Bold.otf" media-type="application/vnd.ms-opentype" />
+		<item id="MinionConceptRoman-Regular.otf" href="font/MinionConceptRoman-Regular.otf" media-type="application/vnd.ms-opentype" />
+		<item id="MinionConceptRoman-Semibold.otf" href="font/MinionConceptRoman-Semibold.otf" media-type="application/vnd.ms-opentype" />
+		<item id="MinionPro-Regular.otf" href="font/MinionPro-Regular.otf" media-type="application/vnd.ms-opentype" />
+		<item id="Perpetua-BoldItalicOsF.ttf" href="font/Perpetua-BoldItalicOsF.ttf" media-type="application/x-font-ttf" />
+		<item id="Perpetua.ttf" href="font/Perpetua.ttf" media-type="application/x-font-ttf" />
+		<item id="PingFangSC-Regular.ttc" href="font/PingFangSC-Regular.ttc" media-type="application/vnd.ms-opentype" />
+		<item id="Timberline-Regular.otf" href="font/Timberline-Regular.otf" media-type="application/vnd.ms-opentype" />
+		<item id="x1-1-fam-2.png" href="image/1-1-fam-2.png" media-type="image/png" />
+		<item id="x1-2-ez.png" href="image/1-2-ez.png" media-type="image/png" />
+		<item id="x1-6-at.png" href="image/1-6-at.png" media-type="image/png" />
+		<item id="x1-6-at1.png" href="image/1-6-at1.png" media-type="image/png" />
+		<item id="x1-7-vx.png" href="image/1-7-vx.png" media-type="image/png" />
+		<item id="x1-7-vx1.png" href="image/1-7-vx1.png" media-type="image/png" />
+		<item id="x1-eh.png" href="image/1-eh.png" media-type="image/png" />
+		<item id="x1-pk.png" href="image/1-pk.png" media-type="image/png" />
+		<item id="x1-sc.png" href="image/1-sc.png" media-type="image/png" />
+		<item id="x1.png" href="image/1.png" media-type="image/png" properties="cover-image" />
+		<item id="x1section_cover.jpg" href="image/1section_cover.jpg" media-type="image/jpeg" />
+		<item id="x1section_cover1.jpg" href="image/1section_cover1.jpg" media-type="image/jpeg" />
+		<item id="x2-ax.png" href="image/2-ax.png" media-type="image/png" />
+		<item id="x2-ax1.png" href="image/2-ax1.png" media-type="image/png" />
+		<item id="x2-er.png" href="image/2-er.png" media-type="image/png" />
+		<item id="x2-er1.png" href="image/2-er1.png" media-type="image/png" />
+		<item id="x2-ha.png" href="image/2-ha.png" media-type="image/png" />
+		<item id="x2-ha1.png" href="image/2-ha1.png" media-type="image/png" />
+		<item id="x2-mb.png" href="image/2-mb.png" media-type="image/png" />
+		<item id="x2-mb1.png" href="image/2-mb1.png" media-type="image/png" />
+		<item id="x2-sf2.png" href="image/2-sf2.png" media-type="image/png" />
+		<item id="x2-sf21.png" href="image/2-sf21.png" media-type="image/png" />
+		<item id="x2-sh.png" href="image/2-sh.png" media-type="image/png" />
+		<item id="x2-sh1.png" href="image/2-sh1.png" media-type="image/png" />
+		<item id="x2-sol-2.png" href="image/2-sol-2.png" media-type="image/png" />
+		<item id="x2-wht.png" href="image/2-wht.png" media-type="image/png" />
+		<item id="x2-wht1.png" href="image/2-wht1.png" media-type="image/png" />
+		<item id="x2.png" href="image/2.png" media-type="image/png" />
+		<item id="x3-3_4.jpg" href="image/3-3_4.jpg" media-type="image/jpeg" />
+		<item id="x3-4b.jpg" href="image/3-4b.jpg" media-type="image/jpeg" />
+		<item id="x3-4c.jpg" href="image/3-4c.jpg" media-type="image/jpeg" />
+		<item id="x3-4d.jpg" href="image/3-4d.jpg" media-type="image/jpeg" />
+		<item id="x3-4e.jpg" href="image/3-4e.jpg" media-type="image/jpeg" />
+		<item id="x3-4f_5.jpg" href="image/3-4f_5.jpg" media-type="image/jpeg" />
+		<item id="x4-1_byline.png" href="image/4-1_byline.png" media-type="image/png" />
+		<item id="x4-1v4.1.jpg" href="image/4-1v4.1.jpg" media-type="image/jpeg" />
+		<item id="x4-3_byline.png" href="image/4-3_byline.png" media-type="image/png" />
+		<item id="x4-4_byline.png" href="image/4-4_byline.png" media-type="image/png" />
+		<item id="x4-4_submission.png" href="image/4-4_submission.png" media-type="image/png" />
+		<item id="x4-4title.png" href="image/4-4title.png" media-type="image/png" />
+		<item id="x4-5B_endline.png" href="image/4-5B_endline.png" media-type="image/png" />
+		<item id="x4-5byline.png" href="image/4-5byline.png" media-type="image/png" />
+		<item id="x4-6_byline.png" href="image/4-6_byline.png" media-type="image/png" />
+		<item id="x4-6_byline1.png" href="image/4-6_byline1.png" media-type="image/png" />
+		<item id="x4-6_byline2.png" href="image/4-6_byline2.png" media-type="image/png" />
+		<item id="x4-6_submission.png" href="image/4-6_submission.png" media-type="image/png" />
+		<item id="x5.png" href="image/5.png" media-type="image/png" />
+		<item id="x20.png" href="image/20.png" media-type="image/png" />
+		<item id="x22.png" href="image/22.png" media-type="image/png" />
+		<item id="x23.png" href="image/23.png" media-type="image/png" />
+		<item id="x29.png" href="image/29.png" media-type="image/png" />
+		<item id="x39.png" href="image/39.png" media-type="image/png" />
+		<item id="x50.png" href="image/50.png" media-type="image/png" />
+		<item id="x51.png" href="image/51.png" media-type="image/png" />
+		<item id="x79.png" href="image/79.png" media-type="image/png" />
+		<item id="x122.png" href="image/122.png" media-type="image/png" />
+		<item id="x129.png" href="image/129.png" media-type="image/png" />
+		<item id="x151.png" href="image/151.png" media-type="image/png" />
+		<item id="x159.png" href="image/159.png" media-type="image/png" />
+		<item id="BACKGORUND.jpg" href="image/BACKGORUND.jpg" media-type="image/jpeg" />
+		<item id="FINAL1_-_Her_Heart_Beats_to_the_Crunch_of_Shrimp_Chips_-_Audrey_Cui.jpg" href="image/FINAL1_-_Her_Heart_Beats_to_the_Crunch_of_Shrimp_Chips_-_Audrey_Cui.jpg" media-type="image/jpeg" />
+		<item id="FINAL1_summer_haze_-_Erin_Rairdan.png" href="image/FINAL1_summer_haze_-_Erin_Rairdan.png" media-type="image/png" />
+		<item id="FINAL4_Virtually_Social.png" href="image/FINAL4_Virtually_Social.png" media-type="image/png" />
+		<item id="FINAL6_Coronavirus_s_Unearthing_of_Anti-Asian_Racism_-_Tina_Gong.jpg" href="image/FINAL6_Coronavirus_s_Unearthing_of_Anti-Asian_Racism_-_Tina_Gong.jpg" media-type="image/jpeg" />
+		<item id="FINAL6_Inside_by_Alison_Xin.png" href="image/FINAL6_Inside_by_Alison_Xin.png" media-type="image/png" />
+		<item id="graphic1.png" href="image/graphic1.png" media-type="image/png" />
+		<item id="graphic2.jpg" href="image/graphic2.jpg" media-type="image/jpeg" />
+		<item id="graphic3.jpg" href="image/graphic3.jpg" media-type="image/jpeg" />
+		<item id="graphic21.jpg" href="image/graphic21.jpg" media-type="image/jpeg" />
+		<item id="graphic31.jpg" href="image/graphic31.jpg" media-type="image/jpeg" />
+		<item id="Image-1a.png" href="image/Image-1a.png" media-type="image/png" />
+		<item id="LifeUndergound_sketch_large.jpg" href="image/LifeUndergound_sketch_large.jpg" media-type="image/jpeg" />
+		<item id="noise.png" href="image/noise.png" media-type="image/png" />
+		<item id="noise1.png" href="image/noise1.png" media-type="image/png" />
+		<item id="PAPER.png" href="image/PAPER.png" media-type="image/png" />
+		<item id="PAPER1.png" href="image/PAPER1.png" media-type="image/png" />
+		<item id="PAPER2.png" href="image/PAPER2.png" media-type="image/png" />
+		<item id="qz-cover-noise-20.png" href="image/qz-cover-noise-20.png" media-type="image/png" />
+		<item id="RED_NOISE.png" href="image/RED_NOISE.png" media-type="image/png" />
+		<item id="RED_NOISE1.png" href="image/RED_NOISE1.png" media-type="image/png" />
+		<item id="rock-white.png" href="image/rock-white.png" media-type="image/png" />
+		<item id="rock-white1.png" href="image/rock-white1.png" media-type="image/png" />
+		<item id="rock-white2.png" href="image/rock-white2.png" media-type="image/png" />
+		<item id="SPREAD_1MANGIRLBAND.jpg" href="image/SPREAD_1MANGIRLBAND.jpg" media-type="image/jpeg" />
+		<item id="SPREAD_16SKEWERS.png" href="image/SPREAD_16SKEWERS.png" media-type="image/png" />
+		<item id="SPREAD_16SKEWERS1.png" href="image/SPREAD_16SKEWERS1.png" media-type="image/png" />
+		<item id="SPREAD_YAWNBREAK.png" href="image/SPREAD_YAWNBREAK.png" media-type="image/png" />
+		<item id="title_banner.jpg" href="image/title_banner.jpg" media-type="image/jpeg" />
+		<item id="title_eyes.jpg" href="image/title_eyes.jpg" media-type="image/jpeg" />
+	</manifest>
+	<spine>
+		<itemref idref="qz-frame-v4-1" properties="page-spread-right" />
+		<itemref idref="qz-frame-v4-2" properties="page-spread-left" />
+		<itemref idref="qz-frame-v4-3" properties="page-spread-right" />
+		<itemref idref="qz-frame-v4-4" properties="page-spread-left" />
+		<itemref idref="qz-frame-v4-5" properties="page-spread-right" />
+		<itemref idref="qz-frame-v4-6" properties="page-spread-left" />
+		<itemref idref="qz-frame-v4-7" properties="page-spread-right" />
+		<itemref idref="qz-frame-v4-8" properties="page-spread-left" />
+		<itemref idref="qz-frame-v4-9" properties="page-spread-right" />
+		<itemref idref="qz-frame-v4-10" properties="page-spread-left" />
+		<itemref idref="qz-frame-v4-11" properties="page-spread-right" />
+		<itemref idref="qz-frame-v4-12" properties="page-spread-left" />
+		<itemref idref="qz-frame-v4-13" properties="page-spread-right" />
+		<itemref idref="qz-frame-v4-14" properties="page-spread-left" />
+		<itemref idref="qz-frame-v4-15" properties="page-spread-right" />
+		<itemref idref="qz-frame-v4-16" properties="page-spread-left" />
+		<itemref idref="qz-frame-v4-17" properties="page-spread-right" />
+		<itemref idref="qz-frame-v4-18" properties="page-spread-left" />
+		<itemref idref="qz-frame-v4-19" properties="page-spread-right" />
+		<itemref idref="qz-frame-v4-20" properties="page-spread-left" />
+		<itemref idref="qz-frame-v4-21" properties="page-spread-right" />
+		<itemref idref="qz-frame-v4-22" properties="page-spread-left" />
+		<itemref idref="qz-frame-v4-23" properties="page-spread-right" />
+		<itemref idref="qz-frame-v4-24" properties="page-spread-left" />
+		<itemref idref="qz-frame-v4-25" properties="page-spread-right" />
+		<itemref idref="qz-frame-v4-26" properties="page-spread-left" />
+		<itemref idref="qz-frame-v4-27" properties="page-spread-right" />
+		<itemref idref="qz-frame-v4-28" properties="page-spread-left" />
+		<itemref idref="qz-frame-v4-29" properties="page-spread-right" />
+		<itemref idref="qz-frame-v4-30" properties="page-spread-left" />
+		<itemref idref="qz-frame-v4-31" properties="page-spread-right" />
+		<itemref idref="qz-frame-v4-32" properties="page-spread-left" />
+		<itemref idref="qz-frame-v4-33" properties="page-spread-right" />
+		<itemref idref="qz-frame-v4-34" properties="page-spread-left" />
+		<itemref idref="qz-frame-v4-35" properties="page-spread-right" />
+		<itemref idref="qz-frame-v4-36" properties="page-spread-left" />
+		<itemref idref="qz-frame-v4-37" properties="page-spread-right" />
+		<itemref idref="qz-frame-v4-38" properties="page-spread-left" />
+		<itemref idref="qz-frame-v4-39" properties="page-spread-right" />
+		<itemref idref="qz-frame-v4-40" properties="page-spread-left" />
+		<itemref idref="qz-frame-v4-41" properties="page-spread-right" />
+		<itemref idref="qz-frame-v4-42" properties="page-spread-left" />
+		<itemref idref="qz-frame-v4-43" properties="page-spread-right" />
+		<itemref idref="qz-frame-v4-44" properties="page-spread-left" />
+		<itemref idref="qz-frame-v4-45" properties="page-spread-right" />
+		<itemref idref="qz-frame-v4-46" properties="page-spread-left" />
+		<itemref idref="qz-frame-v4-47" properties="page-spread-right" />
+		<itemref idref="qz-frame-v4-48" properties="page-spread-left" />
+		<itemref idref="qz-frame-v4-49" properties="page-spread-right" />
+		<itemref idref="qz-frame-v4-50" properties="page-spread-left" />
+		<itemref idref="qz-frame-v4-51" properties="page-spread-right" />
+		<itemref idref="qz-frame-v4-52" properties="page-spread-left" />
+		<itemref idref="qz-frame-v4-53" properties="page-spread-right" />
+		<itemref idref="qz-frame-v4-54" properties="page-spread-left" />
+		<itemref idref="qz-frame-v4-55" properties="page-spread-right" />
+		<itemref idref="qz-frame-v4-56" properties="page-spread-left" />
+		<itemref idref="qz-frame-v4-57" properties="page-spread-right" />
+		<itemref idref="qz-frame-v4-58" properties="page-spread-left" />
+		<itemref idref="qz-frame-v4-59" properties="page-spread-right" />
+		<itemref idref="qz-frame-v4-60" properties="page-spread-left" />
+		<itemref idref="qz-frame-v4-61" properties="page-spread-right" />
+		<itemref idref="qz-frame-v4-62" properties="page-spread-left" />
+		<itemref idref="qz-frame-v4-63" properties="page-spread-right" />
+		<itemref idref="qz-frame-v4-64" properties="page-spread-left" />
+		<itemref idref="qz-frame-v4-65" properties="page-spread-right" />
+		<itemref idref="qz-frame-v4-66" properties="page-spread-left" />
+		<itemref idref="qz-frame-v4-67" properties="page-spread-right" />
+		<itemref idref="qz-frame-v4-68" properties="page-spread-left" />
+		<itemref idref="qz-frame-v4-69" properties="page-spread-right" />
+		<itemref idref="qz-frame-v4-70" properties="page-spread-left" />
+		<itemref idref="qz-frame-v4-71" properties="page-spread-right" />
+		<itemref idref="qz-frame-v4-72" properties="page-spread-left" />
+		<itemref idref="qz-frame-v4-73" properties="page-spread-right" />
+		<itemref idref="qz-frame-v4-74" properties="page-spread-left" />
+		<itemref idref="qz-frame-v4-75" properties="page-spread-right" />
+		<itemref idref="qz-frame-v4-76" properties="page-spread-left" />
+		<itemref idref="qz-frame-v4-77" properties="page-spread-right" />
+		<itemref idref="qz-frame-v4-78" properties="page-spread-left" />
+		<itemref idref="qz-frame-v4-79" properties="page-spread-right" />
+		<itemref idref="qz-frame-v4-80" properties="page-spread-left" />
+		<itemref idref="qz-frame-v4-81" properties="page-spread-right" />
+		<itemref idref="qz-frame-v4-82" properties="page-spread-left" />
+	</spine>
+</package>
